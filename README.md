@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashem</h1>
-<h3 align="center">A passionate Data Scientist & Cheif AI Engineer</h3>
+<h3 align="center">A passionate Cheif AI Engineer & Data Scientist </h3>
 
 ""AI Engineer with 6+ years building and deploying sophisticated AI models. Expertise in machine learning algorithms, LLM development & TensorFlow. Proven ability to optimize operations, reduce costs, and deliver impactful AI solutions. ""
 
