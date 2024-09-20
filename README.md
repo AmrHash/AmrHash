@@ -1,7 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hashem</h1>
 <h3 align="center">A passionate Data Scientist & Cheif AI Engineer</h3>
 
-- 🔭 I’m currently working on **CortexAnalysis**
+""AI Engineer with 6+ years building and deploying sophisticated AI models. Expertise in machine learning algorithms, LLM development & TensorFlow. Proven ability to optimize operations, reduce costs, and deliver impactful AI solutions. ""
+
+- Back End Developer (Python, Django, Flask, Streamlit)
+- Machine Learning Engineer
+- AI Frameworks (Tensor Flow, PyTorch, HG Transformers)
+- Speed Scripting & Automation
+- Exceptional at implementing Frontend for ML & AI webapps using Streamlit Framework
+- RESTful API, FastAPI
+- Designing LLMs, Fine Tune & Deploy it.
+- Integrating machine learning models with web applications for real-time analysis.
+- Familiar with Design Patterns & Unit Testing
+- Documentation & Report Writing Skills 
+- Data Science (NumPy, Scikit learn, Pandas, Matplotlib, Seaborn)
+- Blockchain Technology Basics & Smart Contracts
+- Agile Methodology
+- Linux Server Enthusiast (Ubuntu, Red hat)
+- Databases ( MySQL, SQLite3, PostgreSQL, MongoDB)
+- Experience with Jupyter notebooks
+- AWS Services: Cloud9, EC2, S3
+
+- 🔭 I’m currently working on **Cortex AI Stock Analysis Suite*
 
 - 🌱 I’m currently learning **Vertex AI - Specialized Agents**
 
@@ -11,7 +31,7 @@
 
 - 📫 How to reach me **Hashem@Zaigel.com**
 
-- ⚡ Fun fact **I am not a robot**
+- ⚡ Fun fact **I AM NOT A ROBBOT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
